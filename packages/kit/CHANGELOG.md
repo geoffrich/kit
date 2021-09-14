@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.0.0-next.168
+
+### Patch Changes
+
+- [fix] encodeURI during prerender ([#2427](https://github.com/sveltejs/kit/pull/2427))
+
 ## 1.0.0-next.167
 
 ### Patch Changes
